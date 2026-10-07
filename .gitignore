@@ -1,0 +1,10 @@
+# Build output: the .exe is published as a release asset, not committed
+bin/
+obj/
+
+# Local test reports and private setup notes
+*-results.txt
+*-test.txt
+test-results.txt
+history-audit.txt
+setup-verification.md
